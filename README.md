@@ -1,7 +1,7 @@
 blog
 ====
 
-Funshion IT department blog on GitHub.  
+Funshion R&D department blog on GitHub.  
 This blog is updated by Funshion Online Software professionals.  
 
 ## Articles
