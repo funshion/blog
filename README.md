@@ -10,6 +10,8 @@ This blog is updated by Funshion Online Software professionals.
 
 content example
 
+### [Article 2](https://github.com/funshion/blog/blob/master/Article2.md)
+
 ## Contributing
 
 Use git and [Markdown](http://github.github.com/github-flavored-markdown/)
