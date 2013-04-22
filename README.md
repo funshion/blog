@@ -12,4 +12,6 @@ content example
 
 ## Contributing
 
-Use git and Markdown editor to edit locally or update and commit from within browser. 
+Use git and [Markdown](http://github.github.com/github-flavored-markdown/)
+[editor](http://www.winterwell.com/software/markdown-editor.php)
+to edit locally or update and commit from within browser. 
